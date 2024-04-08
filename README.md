@@ -26,194 +26,166 @@ Execute the programs and publish them.
 
 ## CODE
 ```
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Map</title>
-</head>
-<body>
-    <img src="Map.png" usemap="#image-map">
+map1.html
 
-    <map name="image-map">
-        <area target="_blank" alt="Chennai Central" title="Chennai Central" href="central.html" coords="962,331,1127,450" 
-shape="rect">
-        <area target="_blank" alt="Chennai Port" title="Chennai Port" href="port.html" coords="1762,307,1876,413" shape="rect">
-        <area target="_blank" alt="Chennai Egmore " title="Chennai Egmore " href="egmore.html" coords="87,666,263,723" shape="rect">
-        <area target="_blank" alt="Rajiv Gandhi Govt Hospital" title="Rajiv Gandhi Govt Hospital" href="hospital.html" coords="1031,487,1192,567" shape="rect">
-        <area target="_blank" alt="Fort St. George Museum" title="Fort St. George Museum" href="fort.html" coords="1444,495,1647,597" shape="rect">
-    </map>
-</body>
+<html>
+    <head>
+        <title>Map</title>
+    </head>
+    <body>
+        <h1 align="center">
+            <font color="red"><b>Veppampattu</b></font>
+        </h1>
+        <h3 align="center">
+            <font color="blue"><b>ABISHAI 212223240002</b></font>
+        </h3>
+        <center>
+            <img src="map.png" usemap="#image-map">
+            <img src="Screenshot 2024-01-26 194958.png" usemap="#image-map">
+
+<map name="image-map">
+    <area target="" alt="BSN Party Hall" title="BSN Party Hall" href="bsn.html" coords="1267,562,1411,625" shape="rect">
+    <area target="" alt="Raja National School" title="Raja National School" href="raja.html" coords="78,833,108" shape="circle">
+    <area target="" alt="Tata Steel Limited" title="Tata Steel Limited" href="tata.html" coords="1682,562,1845,610" shape="rect">
+    <area target="" alt="Balaji Construction and Builders" title="Balaji Construction and Builders" href="balaji.html" coords="1240,840,1403,898" shape="rect">
+    <area target="" alt="SRM Cool Point" title="SRM Cool Point" href="srm.html" coords="1769,949,48" shape="circle">
+</map>
+        </center>  
+    </body>
 </html>
-```
 
-```
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Chennai Central</title>
-    <style>
-        h1{
-            text-align: center;
-            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-            color:darkslategray;
-        }
-        p{
-            text-align: justify;
-            color:darkolivegreen;
-            font-size: x-large;
-            
-        }
-    </style>
-</head>
-<body>
-    <h1>Puratchi Thalaivar Dr. M.G. Ramachandran Central Railway Station</h1>
-    <br>
-    <hr color="Brown">
-    <p>Chennai Central, officially Puratchi Thalaivar Dr. M.G. Ramachandran Central Railway Station, and formerly known as Madras Central (station code: MAS), is the main railway terminus in the city of Chennai, Tamil Nadu, India. It is the busiest railway station in South India and one of the most important hubs in the country. It is connected to Moore Market Complex railway station, Chennai Central metro station, Chennai Park railway station, and Chennai Park Town railway station. It is about 1.8 km (1.1 mi) from the Chennai Egmore railway station. The terminus connects the city to northern India, including Kolkata, Mumbai, and New Delhi, and all the different parts of India.</p>
 
-</body>
+
+balaji.html
+
+<html>
+    <head>
+        <title>Map</title>
+    </head>
+    <body bgcolor="purple">
+        <h1 align="center">
+            <font color="cyan"><b>Veppampattu</b></font>
+        </h1>
+        <h3 align="center">
+            <font color="lime"></b>Balaji Construction and Builders</font>
+        </h3>
+        <hr size="3" color="red">
+        <p align="justify">
+            <font face="Georgia" size="5" color="white">
+                Balaji Construction is a full service construction firm specializing in managing high image and technically difficult projects. We’ve been in business since 1997 and operate exclusively in “TAMILNADU”.’ time and money.We uses a variety of delivery methods to meet specific needs of clients including Construction Management, Project Management, Design-build and general contracting. No matter what the delivery method, We takes projects from concept to completion and saves our clients’ time and money.
+            </font>
+        </p>
+    </body>
 </html>
-```
 
-```
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Chennai Egmore</title>
-    <style>
-        h1{
-            text-align: center;
-            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-            color:darkslategray;
-        }
-        p{
-            text-align: justify;
-            color:darkolivegreen;
-            font-size: x-large;
-            
-        }
-    </style>
-</head>
-<body>
-    <h1>Chennai Egmore Railway Station</h1>
-    <br>
-    <hr color="Brown">
-    <p>Chennai Egmore, formerly known as Madras Egmore, also known as Chennai Elumbur (station code: MS), is a railway station in Chennai, Tamil Nadu, India. Situated in the neighborhood of Egmore, it is one of the four intercity railway terminals in the city; the other three are Chennai Central railway station, Tambaram railway station and Chennai Beach railway station. The station was built in 1906-1908 as the terminus of the South Indian Railway Company. The building built in Gothic style is one of the prominent landmarks of Chennai. The main entrance to the station is situated on Gandhi-Irwin Road and the rear entrance on Poonamallee High Road.</p>
+bsn.html
 
-</body>
+<html>
+    <head>
+        <title>Map</title>
+    </head>
+    <body bgcolor="purple">
+        <h1 align="center">
+            <font color="cyan"><b>Veppampattu</b></font>
+        </h1>
+        <h3 align="center">
+            <font color="lime"></b>BSN Party Hall</font>
+        </h3>
+        <hr size="3" color="red">
+        <p align="justify">
+            <font face="Georgia" size="5" color="white">
+                BSN Party Hall, Veppampattu, Thiruvallur is a great venue to host your wedding and reception ceremonies. 
+                It is located near the Sri Lakshmi Narasimha Temple which is a known place for the people living nearby. 
+                It is also just 5 kilometers away from Veppampattu Railway Station. 
+                It allows you to get your own caterer from outside to serve lip-smacking cuisines. 
+            </font>
+        </p>
+    </body>
 </html>
-```
 
-```
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fort St. George</title>
-    <style>
-        h1{
-            text-align: center;
-            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-            color:darkslategray;
-        }
-        p{
-            text-align: justify;
-            color:darkolivegreen;
-            font-size: x-large;
-            
-        }
-    </style>
-</head>
-<body>
-    <h1>Fort St. George, India</h1>
-    <br>
-    <hr color="Brown">
-    <p>Fort St. George (or historically, White Town) is a fortress at the coastal city of Chennai, India. Founded in 1639, it was the first English (later British) fortress in India. The construction of the fort provided the impetus for further settlements and trading activity, in what was originally an uninhabited land. Thus, it is a feasible contention to say that the city (formerly named Madras) evolved around the fortress. The fort currently houses the Tamil Nadu legislative assembly and other official buildings.</p>
+raja.html
 
-</body>
+<html>
+    <head>
+        <title>Map</title>
+    </head>
+    <body bgcolor="orange">
+        <h1 align="center">
+            <font color="cyan"><b>Veppampattu</b></font>
+        </h1>
+        <h3 align="center">
+            <font color="red"><b>Raja National School</b></font>
+        </h3>
+        <hr size="3" color="red">
+        <p align="justify">
+            <font face="Georgia" size="5" color="black">
+                Our School is committed to provide a friendly, safe and happy atmosphere, where, the needs of the student comes first. Our School, works with the parents together to help each child to unveil his or her unique potential. Just as a small drop of water, makes its contribution in the formation of a mighty ocean, our School helps our students to develop
+                High self-esteem, Respect for individual,Learn to think for themselves,Benefits of working as a team,Out-of-the-box thinking,Make prudent judgements and
+ 
+            </font>
+        </p>
+    </body>
 </html>
-```
 
-```
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hospital</title>
-    <style>
-        h1{
-            text-align: center;
-            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-            color:darkslategray;
-        }
-        p{
-            text-align: justify;
-            color:darkolivegreen;
-            font-size: x-large;
-            
-        }
-    </style>
-</head>
-<body>
-    <h1>Rajiv Gandhi Government General Hospital</h1>
-    <br>
-    <hr color="Brown">
-    <p>Rajiv Gandhi Government General Hospital is a major state-owned hospital situated in Chennai, India. The hospital is funded and managed by the state government of Tamil Nadu. Founded in 1664 by the British East India Company, it is the first modern hospital in India. In the 19th century, the Madras Medical College joined it. As of 2018, the hospital receives an average of 12,000 outpatients every day.</p>
+srm.html
 
-</body>
+<html>
+    <head>
+        <title>Map</title>
+    </head>
+    <body bgcolor="purple">
+        <h1 align="center">
+            <font color="cyan"><b>Veppampattu</b></font>
+        </h1>
+        <h3 align="center">
+            <font color="lime"></b>SRM Cool Point</font>
+        </h3>
+        <hr size="3" color="red">
+        <p align="justify">
+            <font face="Georgia" size="5" color="white">
+                There are limits to the value companies can generate by focusing purely on the price of the products and services they buy. When buyers and suppliers are willing and able to cooperate, they often find ways to unlock new sources of value that benefit them both.A McKinsey survey of more than 100 large organizations in multiple sectors revealed that companies that regularly collaborated with suppliers demonstrated higher growth, lower operating costs, and greater profitability than their industry peers[1].
+            </font>
+        </p>
+    </body>
 </html>
-```
 
-```
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Chennai Port</title>
-    <style>
-        h1{
-            text-align: center;
-            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-            color:darkslategray;
-        }
-        p{
-            text-align: justify;
-            color:darkolivegreen;
-            font-size: x-large;
-            
-        }
-    </style>
-</head>
-<body>
-    <h1>Port of Chennai</h1>
-    <br>
-    <hr color="Brown">
-    <p>Chennai Port, formerly known as Madras Port, is the second largest container port of India, behind Mumbai's Nhava Sheva. The port is the largest one in the Bay of Bengal. It is the third-oldest port among the 13 major ports of India with official port operations beginning in 1881, although maritime trade started much earlier in 1639 on the undeveloped shore. It is an artificial and all-weather port with wet docks. Once a major travel port, it became a major container port in the post-Independence era. An established port of trade of British India since the 1600s, the port remains a primary reason for the economic growth of Tamil Nadu, especially for the manufacturing boom in South India, and has contributed greatly to the development of the city of Chennai. It is due to the existence of the port that the city of Chennai eventually became known as the Gateway of South India.</p>
+tata.html
 
-</body>
+<html>
+    <head>
+        <title>Map</title>
+    </head>
+    <body bgcolor="purple">
+        <h1 align="center">
+            <font color="cyan"><b>Veppampattu</b></font>
+        </h1>
+        <h3 align="center">
+            <font color="lime"></b>Tata Steel Limited</font>
+        </h3>
+        <hr size="3" color="red">
+        <p align="justify">
+            <font face="Georgia" size="5" color="white">
+                In India, Tata Steel operates an end-to-end value chain that extends from mining to finished steel goods, catering to an array of market segments such as automotive, construction, general engineering etc. The Company sources most of the required raw materials from its captive mines in India, providing raw material security and the competitive advantage of being a low-cost steel producer. The Raw Material Division of Tata Steel supplies almost 100% of iron ore and nearly 21% of clean coal requirements for steel manufacturing facilities in India, while the rest is imported. The Company also operates manganese and chromite mines.
+            </font>
+        </p>
+    </body>
 </html>
+
 ```
 ## OUTPUT
-![279456625-299319b6-83d9-469f-9bed-6a5c915ddd40](https://github.com/Abishai95141/NearMe/assets/139335314/6b581d6c-b58f-4543-8687-aa19e96e4554)
+![Uploading web1.png…]()
 
-![image](https://github.com/Abishai95141/NearMe/assets/139335314/f2cdb74d-7de0-4965-8177-ab92e3b47293)
 
-![image](https://github.com/Abishai95141/NearMe/assets/139335314/13e11e99-15ac-49fc-8792-a1fa59873fde)
+![image](https://github.com/Abishai95141/NearMe/assets/139335314/0aba8559-d980-4f4f-9323-06e0ea4a4194)
 
-![image](https://github.com/Abishai95141/NearMe/assets/139335314/b710c24d-41c1-492a-b1d5-7cbb614de392)
+![image](https://github.com/Abishai95141/NearMe/assets/139335314/71f21e2d-63b7-4ccc-b2b9-c4960b609fe2)
 
-![image](https://github.com/Abishai95141/NearMe/assets/139335314/0aa8298a-52a7-4cf9-856a-c66eb084c25c)
+![image](https://github.com/Abishai95141/NearMe/assets/139335314/e38924ba-bc17-48e2-a958-d3ed4ea89ce9)
 
-![image](https://github.com/Abishai95141/NearMe/assets/139335314/36cfa658-1db4-4487-8363-ed7cb1238c4e)
+![image](https://github.com/Abishai95141/NearMe/assets/139335314/ec463ae5-76ee-4873-8b20-322b67c47a6f)
+
+![image](https://github.com/Abishai95141/NearMe/assets/139335314/9faead5c-3b6b-4a1e-822c-42ba065f1bd7)
+
 
 
 ## RESULT
