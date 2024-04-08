@@ -173,10 +173,11 @@ tata.html
 
 ```
 ## OUTPUT
-![Uploading web1.png…]()
+![web1](https://github.com/Abishai95141/NearMe/assets/139335314/d6cc4625-d709-4c77-9944-7bda73cd3325)
 
 
-![image](https://github.com/Abishai95141/NearMe/assets/139335314/0aba8559-d980-4f4f-9323-06e0ea4a4194)
+![image](https://github.com/Abishai95141/NearMe/assets/139335314/627f6190-9ff3-44d9-aa1f-3904933da81d)
+
 
 ![image](https://github.com/Abishai95141/NearMe/assets/139335314/71f21e2d-63b7-4ccc-b2b9-c4960b609fe2)
 
