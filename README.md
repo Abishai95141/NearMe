@@ -182,8 +182,8 @@ tata.html
 ![image](https://github.com/Abishai95141/NearMe/assets/139335314/71f21e2d-63b7-4ccc-b2b9-c4960b609fe2)
 
 ![image](https://github.com/Abishai95141/NearMe/assets/139335314/e38924ba-bc17-48e2-a958-d3ed4ea89ce9)
+![image](https://github.com/Abishai95141/NearMe/assets/139335314/c6a1c939-b8c8-4725-9ffe-2970b955c735)
 
-![image](https://github.com/Abishai95141/NearMe/assets/139335314/ec463ae5-76ee-4873-8b20-322b67c47a6f)
 
 ![image](https://github.com/Abishai95141/NearMe/assets/139335314/9faead5c-3b6b-4a1e-822c-42ba065f1bd7)
 
