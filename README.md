@@ -37,7 +37,7 @@ map.html
 <font color="black"><b>MELUR</b></font>
 </h1>
 <h3 align="center">
-<font color="green"><b>PRIYADHARSHINI.P(212223240128)</b></font>
+<font color="green"><b>ABISHAI KC</b></font>
 </h3>
 <center>
 <img src="Screenshot 2024-03-24 144347.png" usemap="#image-map">
